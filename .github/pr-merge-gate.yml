@@ -1,1 +1,4 @@
-tiers: [
+tiers:
+  risk:0-low: { approvals: 1, codeOwnerApproval: true }
+  risk:1-medium: { approvals: 0, resolveComments: false }
+  risk:2-high: { approvals: 3 }
