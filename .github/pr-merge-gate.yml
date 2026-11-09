@@ -1,2 +1,1 @@
-tiers:
-  risk:1-medium: { approval: 2 }
+tiers: [
