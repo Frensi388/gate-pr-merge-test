@@ -1,4 +1,2 @@
 tiers:
-  risk:0-low: { resolveComments: false }
-  risk:1-medium: { approvals: 2 }
-  risk:2-high: { approvals: 0, codeOwnerApproval: false, resolveComments: false }
+  risk:1-medium: { approval: 2 }
