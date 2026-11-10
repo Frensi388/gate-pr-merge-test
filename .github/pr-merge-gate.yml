@@ -1,0 +1,2 @@
+tiers:
+  risk:2-high: { approvals: 0, codeOwnerApproval: false }
